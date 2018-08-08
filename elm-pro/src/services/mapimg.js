@@ -1,4 +1,4 @@
-import API from '../api'
+import API from '../API/api.js'
 
 function handleImg(path,size){
 	if(!path){
